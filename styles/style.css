@@ -1,7 +1,6 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
-.inter-font{
+.inter-font {
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
@@ -136,7 +135,8 @@ nav {
     font-size: 1rem;
 
 }
-.card-container{
+
+.card-container {
     display: flex;
     justify-content: center;
     gap: 25px;
@@ -181,21 +181,24 @@ nav {
 
 
 /* Brain styles */
-.brain-container{
+.brain-container {
     display: flex;
     gap: 70px;
     justify-items: center;
     align-items: center;
 }
-.image-div img{
+
+.image-div img {
     margin-left: 100px;
 }
-.short-info{
+
+.short-info {
     color: #469165;
     font-size: 1rem;
     font-weight: 600;
 }
-.brain-title{
+
+.brain-title {
     color: #001931;
     font-size: 3rem;
     font-weight: 800;
@@ -205,20 +208,22 @@ nav {
 
 
 }
-.brain-subtitle{
+
+.brain-subtitle {
     color: #627382;
     font-size: 1rem;
     max-width: 500px;
     margin-bottom: 40px;
 }
-.brain-list{
+
+.brain-list {
     list-style: none;
     color: #001931;
     font-weight: 500;
     margin-bottom: 16px;
 }
 
-.brain-list> span{
+.brain-list>span {
     color: #FFFFFF;
     background-color: #30B868;
     padding: 4px;
@@ -228,7 +233,6 @@ nav {
 
 
 
-/* Ready styles */
 
 
 
@@ -238,42 +242,4 @@ nav {
 
 
 
-/* footer styles */
-footer{
-    background-color: #001931;
-    min-height: 430px;
-}
-.footer-div{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-.footer-logo{
-    margin-left: 100px;
-    margin-bottom: 150px;
-    margin-top: 100px;
-}
-.footer-icon{
-    margin-right: 100px;
-    margin-bottom: 150px;
-    margin-top: 100px;
-}
-.icon-title{
-    color: #FFFFFF;
-    font-size: 1.25rem;
-    font-weight: 500;
-    margin-left: 10px;
-}
-.social-icons i{
-    background-color: white;
-    padding: 5px;
-    border-radius: 20px;
-    margin-left: 10px;
-    
-}
-.copy-right{
-    color: #FAFAFA;
-    text-align: center;
-    margin-bottom: 20px;
-    font: 0.9rem;
-}
+
